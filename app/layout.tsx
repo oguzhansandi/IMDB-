@@ -2,6 +2,7 @@ import Header from './components/Header'
 import './globals.css'
 import type { Metadata } from 'next'
 import Providers from './Providers'
+import Navbar from './components/Navbar'
 
 
 
@@ -22,6 +23,7 @@ export default function RootLayout({
           {/*Header*/}
           <Header/>
           {/*Navbar*/}
+          <Navbar />
           {/*SearchBox*/}
 
 
