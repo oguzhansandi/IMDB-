@@ -1,3 +1,10 @@
+![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/83a98dfa-cd0d-4042-8b1f-15900c1ff461)
+![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/a08a4d5c-d02d-44ef-8cb3-f8c559bbc2bd)
+![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/f034d6e0-4c82-43a7-9a0f-51c7d7c5efd2)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
