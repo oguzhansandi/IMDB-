@@ -1,6 +1,8 @@
-![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/83a98dfa-cd0d-4042-8b1f-15900c1ff461)
-![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/a08a4d5c-d02d-44ef-8cb3-f8c559bbc2bd)
-![image](https://github.com/oguzhansandi/IMDB-/assets/68343552/f034d6e0-4c82-43a7-9a0f-51c7d7c5efd2)
+<img src="https://github.com/oguzhansandi/IMDB-/assets/68343552/83a98dfa-cd0d-4042-8b1f-15900c1ff461" alt="dark-mode-pic" width="500" height="300">
+<img src="https://github.com/oguzhansandi/IMDB-/assets/68343552/dcc9891b-49a2-4144-a269-f948fca8f198" alt="about-page-pic" width="500" height="300">
+<img src="https://github.com/oguzhansandi/IMDB-/assets/68343552/a08a4d5c-d02d-44ef-8cb3-f8c559bbc2bd" alt="search-pic" width="500" height="300">
+<img src="https://github.com/oguzhansandi/IMDB-/assets/68343552/f034d6e0-4c82-43a7-9a0f-51c7d7c5efd2" alt="detail-pic" width="500" height="300">
+
 
 
 
