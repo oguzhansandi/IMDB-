@@ -4,6 +4,7 @@ import type { Metadata } from 'next'
 import Providers from './Providers'
 import Navbar from './components/Navbar'
 import SearchBox from './components/SearchBox'
+import React from 'react'
 
 
 
