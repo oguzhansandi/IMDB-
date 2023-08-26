@@ -1,6 +1,7 @@
 import { log } from 'console';
 import Image from 'next/image'
 import Results from './components/Results';
+import React from 'react';
 
 const API_KEY = process.env.API_KEY
 

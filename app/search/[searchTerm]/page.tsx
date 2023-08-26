@@ -1,4 +1,4 @@
-import Results from '@/app/components/Results';
+import Results from '../../components/Results';
 import React from 'react'
 
 
